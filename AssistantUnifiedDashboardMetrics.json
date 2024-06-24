@@ -1,0 +1,191 @@
+{
+    "email": null,
+    "userName": null,
+    "isoTotalEvidenceCount": 92,
+    "isoCompletedEvidenceCount": 9,
+    "pcidssTotalEvidenceCount": 171,
+    "pcidssCompletedEvidenceCount": 21,
+    "soC2TotalEvidenceCount": 168,
+    "soC2CompletedEvidenceCount": 9,
+    "isoComplianceCompletedPercentage": "1",
+    "pcidssComplianceCompletedPercentage": "18",
+    "soC2ComplianceCompletedPercentage": "10",
+    "pciCriticalAPSeverityCount": 0,
+    "pciHighAPSeverityCount": 0,
+    "pciMediumAPSeverityCount": 0,
+    "pciLowAPSeverityCount": 0,
+    "isoCriticalAPSeverityCount": 1,
+    "isoHighAPSeverityCount": 1,
+    "isoMediumAPSeverityCount": 1,
+    "isoLowAPSeverityCount": 1,
+    "activityFeeds": [
+        {
+            "id": 2641491,
+            "companyName": null,
+            "projectName": null,
+            "url": null,
+            "updatedBy": "arpitha.s@",
+            "keyword": "Security policy and operational procedures to implement Network Security Controls",
+            "module": null,
+            "action": "File(s) Uploaded",
+            "updatedOn": "2024-06-10T12:01:03.097",
+            "isMailsent": null,
+            "companyID": null,
+            "activityId": null,
+            "activityActionTypeId": null,
+            "activityActionTypeDesc": "Evidence"
+        },
+        {
+            "id": 2641383,
+            "companyName": null,
+            "projectName": null,
+            "url": null,
+            "updatedBy": "rajesh.vee",
+            "keyword": "Security policy and operational procedures to implement Network Security Controls",
+            "module": null,
+            "action": "File(s) Uploaded",
+            "updatedOn": "2024-06-10T11:15:41.66",
+            "isMailsent": null,
+            "companyID": null,
+            "activityId": null,
+            "activityActionTypeId": null,
+            "activityActionTypeDesc": "Evidence"
+        },
+        {
+            "id": 2639366,
+            "companyName": null,
+            "projectName": null,
+            "url": null,
+            "updatedBy": "abhishek.s",
+            "keyword": "Information security Policy document",
+            "module": null,
+            "action": "File(s) Uploaded",
+            "updatedOn": "2024-06-07T14:12:11.107",
+            "isMailsent": null,
+            "companyID": null,
+            "activityId": null,
+            "activityActionTypeId": null,
+            "activityActionTypeDesc": "Evidence"
+        },
+        {
+            "id": 2639365,
+            "companyName": null,
+            "projectName": null,
+            "url": null,
+            "updatedBy": "abhishek.s",
+            "keyword": "CC7-System Operations",
+            "module": null,
+            "action": "Uploaded  a file for domain i.e CC7-System Operations and principle i.e CC7.3-The entity evaluates security events to determine whether they could or have resulted in a failure of the entity to meet its objectives (security incidents) and, if so, takes actions to prevent or address such failures. and control i.e ",
+            "updatedOn": "2024-06-07T14:11:00.45",
+            "isMailsent": null,
+            "companyID": null,
+            "activityId": null,
+            "activityActionTypeId": null,
+            "activityActionTypeDesc": "Evidence"
+        },
+        {
+            "id": 2638843,
+            "companyName": null,
+            "projectName": null,
+            "url": null,
+            "updatedBy": "arpitha.s@",
+            "keyword": "Information security Policy document",
+            "module": null,
+            "action": "File(s) Uploaded",
+            "updatedOn": "2024-06-07T12:39:34.14",
+            "isMailsent": null,
+            "companyID": null,
+            "activityId": null,
+            "activityActionTypeId": null,
+            "activityActionTypeDesc": "Evidence"
+        },
+        {
+            "id": 2638842,
+            "companyName": null,
+            "projectName": null,
+            "url": null,
+            "updatedBy": "arpitha.s@",
+            "keyword": "CC7-System Operations",
+            "module": null,
+            "action": "Uploaded  a file for domain i.e CC7-System Operations and principle i.e CC7.3-The entity evaluates security events to determine whether they could or have resulted in a failure of the entity to meet its objectives (security incidents) and, if so, takes actions to prevent or address such failures. and control i.e ",
+            "updatedOn": "2024-06-07T12:39:16.493",
+            "isMailsent": null,
+            "companyID": null,
+            "activityId": null,
+            "activityActionTypeId": null,
+            "activityActionTypeDesc": "Evidence"
+        },
+        {
+            "id": 2638403,
+            "companyName": null,
+            "projectName": null,
+            "url": null,
+            "updatedBy": "arpitha.s@",
+            "keyword": "Information Security Policy",
+            "module": null,
+            "action": "Uploaded file Capture.PNG for SubControl Information Security Policy",
+            "updatedOn": "2024-06-07T10:20:34.797",
+            "isMailsent": null,
+            "companyID": null,
+            "activityId": null,
+            "activityActionTypeId": null,
+            "activityActionTypeDesc": "Evidence"
+        },
+        {
+            "id": 2638398,
+            "companyName": null,
+            "projectName": null,
+            "url": null,
+            "updatedBy": "arpitha.s@",
+            "keyword": "Information security Policy document",
+            "module": null,
+            "action": "File(s) Uploaded",
+            "updatedOn": "2024-06-07T10:19:41.523",
+            "isMailsent": null,
+            "companyID": null,
+            "activityId": null,
+            "activityActionTypeId": null,
+            "activityActionTypeDesc": "Evidence"
+        }
+    ],
+    "activityWiseMonthlyTrend": [
+        {
+            "activityName": "ISO27001",
+            "weekData": "Jan,Feb,Mar,Apr,May,Jun",
+            "evidenceCount": "0,0,0,0,36,36"
+        },
+        {
+            "activityName": "SOC2",
+            "weekData": "Jan,Feb,Mar,Apr,May,Jun",
+            "evidenceCount": "0,0,0,0,29,14"
+        },
+        {
+            "activityName": "PCIDSS",
+            "weekData": "Jan,Feb,Mar,Apr,May,Jun",
+            "evidenceCount": "0,0,0,0,32,31"
+        }
+    ],
+    "ongoingActivityStatus": [
+        {
+            "activityName": "PCI DSS",
+            "milestoneName": "Certification",
+            "startDate": "02 Jun, 2024",
+            "endDate": "09 Jun, 2024",
+            "status": "Completed"
+        },
+        {
+            "activityName": "SOC2",
+            "milestoneName": "Project Monitoring",
+            "startDate": "05 Jun, 2024",
+            "endDate": "05 Jun, 2024",
+            "status": "delayed"
+        },
+        {
+            "activityName": "ISO 27001",
+            "milestoneName": "Remediation",
+            "startDate": "14 May, 2024",
+            "endDate": "27 May, 2024",
+            "status": "delayed"
+        }
+    ]
+}
